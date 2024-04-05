@@ -2,7 +2,7 @@ import streamlit as st
 
 # Page Title and Header
 st.title("Explore Machine Learning Projects")
-st.header("Discover various machine learning projects developed by Avinash Pawar at NIELIT Daman")
+
 
 # Project Links and Descriptions
 projects = {
@@ -20,3 +20,4 @@ for project, description in projects.items():
 
 # Footer
 st.markdown("Feel free to explore these projects and learn more about machine learning techniques!")
+st.markdown("Discover various machine learning projects developed by Avinash Pawar at NIELIT Daman")
