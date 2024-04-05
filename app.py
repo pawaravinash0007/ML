@@ -13,9 +13,9 @@ projects = {
 }
 
 # Displaying Projects with Descriptions and Links
-for project, description in projects.items():
+for project in projects.items():
     st.header(project)
-    st.markdown(description)
+    #st.markdown(description)
     st.markdown(f"[Click here to explore {project}](https://avinashc.streamlit.app)")
 
 # Footer
