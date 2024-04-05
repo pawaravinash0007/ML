@@ -7,9 +7,9 @@ st.title("Explore Machine Learning Projects")
 # Project Links and Descriptions
 projects = {
     "Classification Machine Learning Project": "This project demonstrates classification algorithms.",
-    "Random Forest Machine Learning Project": "Discover a random forest machine learning project developed by Avinash Pawar. Random forest is a popular ensemble learning algorithm.",
-    "Linear Regression Machine Learning Project": "Check out a linear regression machine learning project by Avinash Pawar. Linear regression is a fundamental algorithm for regression tasks.",
-    "Logistic Regression Machine Learning Project": "Explore a logistic regression machine learning project developed by Avinash Pawar. Logistic regression is widely used for binary classification problems."
+    "Random Forest Machine Learning Project": "Random forest is a popular ensemble learning algorithm.",
+    "Linear Regression Machine Learning Project": "Linear regression is a fundamental algorithm for regression tasks.",
+    "Logistic Regression Machine Learning Project": "Logistic regression is widely used for binary classification problems."
 }
 
 # Displaying Projects with Descriptions and Links
