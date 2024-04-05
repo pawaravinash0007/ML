@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Page Title and Header
-st.title("Explore Machine Learning Projects")
+st.title("Explore Machine Learning Projects NIELIT Daman")
 
 
 # Project Links and Descriptions
