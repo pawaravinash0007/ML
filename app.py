@@ -1,5 +1,6 @@
 import streamlit as st
-st.title("Welcome to My Page")
+st.title("Machine Learning Projects")
 
+st.header("Classification Machine Learning Project")
 url = "https://avinashc.streamlit.app"
-st.title(url)
+stmarkdown(url)
