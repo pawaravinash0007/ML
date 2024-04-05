@@ -19,5 +19,5 @@ for project, description in projects.items():
     st.markdown(f"[Click here to explore {project}](https://avinashc.streamlit.app)")
 
 # Footer
-st.markdown("Feel free to explore these projects and learn more about machine learning techniques!")
 st.markdown("Discover various machine learning projects developed by Avinash Pawar at NIELIT Daman")
+
