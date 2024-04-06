@@ -7,13 +7,13 @@ st.title("Explore Machine Learning Projects NIELIT Daman")
 # Project Links and Descriptions
 projects = {
     "Classification Machine Learning Project": "This project demonstrates classification algorithms.",
-    st.markdown(f"[Click here to explore {project}](https://avinashc.streamlit.app)")
+    st.markdown(f"[Click here to explore {project}](https://avinashc.streamlit.app)"),
     "Random Forest Machine Learning Project": "Random forest is a popular ensemble learning algorithm.",
-    st.markdown(f"[Click here to explore {project}](https://avinashrf.streamlit.app)")
+    st.markdown(f"[Click here to explore {project}](https://avinashrf.streamlit.app)"),
     "Linear Regression Machine Learning Project": "Linear regression is a fundamental algorithm for regression tasks.",
-    st.markdown(f"[Click here to explore {project}](https://avinashli.streamlit.app)")
+    st.markdown(f"[Click here to explore {project}](https://avinashli.streamlit.app)"),
     "Logistic Regression Machine Learning Project": "Logistic regression is widely used for binary classification problems."
-    st.markdown(f"[Click here to explore {project}](https://avinashlr.streamlit.app)")
+    st.markdown(f"[Click here to explore {project}](https://avinashlr.streamlit.app)"),
 }
 
 # Displaying Projects with Descriptions and Links
