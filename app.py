@@ -25,7 +25,7 @@ projects = {
 
 # Displaying Projects with Descriptions and Links
 for project, details in projects.items():
-    st.header(project)
+    st.header(project["link"])
     st.markdown(details["description"])
     st.markdown(f"Click here to explore {project}")
 
