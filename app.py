@@ -27,7 +27,7 @@ projects = {
 for project, details in projects.items():
     st.header(project)
     st.markdown(details["description"])
-    st.markdown(f"Click here to explore {project["link"]}")
+    st.markdown(f"Click here to explore {project}")
 
 # Footer
 st.markdown("Discover various machine learning projects developed by Avinash Pawar at NIELIT Daman")
