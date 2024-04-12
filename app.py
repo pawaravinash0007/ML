@@ -21,6 +21,10 @@ projects = {
         "description": "Logistic regression is widely used for binary classification problems.",
         "link": "https://avinashlr.streamlit.app"
     }
+    SVM Machine Learning Project": {
+        "description": "This project demonstrates SVM algorithms.",
+        "link": "https://avinashsvm.streamlit.app"
+    },
 }
 
 # Displaying Projects with Descriptions and Links
