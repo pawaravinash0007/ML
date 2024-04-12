@@ -35,4 +35,4 @@ for project, details in projects.items():
 
 # Footer
 st.markdown("Discover various machine learning projects developed by Avinash Pawar at NIELIT Daman")
-st.markdown("Feel free to Contact Avinash: 8329063970 for Machine Learning Project ") 
+st.markdown("Feel free to Contact **Avinash: 8329063970** for Machine Learning Project ") 
