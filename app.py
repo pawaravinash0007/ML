@@ -12,6 +12,7 @@ projects = {
     "Random Forest Machine Learning Project": {
         "description": "Random forest is a popular ensemble learning algorithm.",
         "link": "https://avinashrf.streamlit.app"
+        "Link": "https://avinashrfc.streamlit.app/"
     },
     "Linear Regression Machine Learning Project": {
         "description": "Linear regression is a fundamental algorithm for regression tasks.",
